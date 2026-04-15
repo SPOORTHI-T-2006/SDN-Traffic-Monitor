@@ -160,7 +160,7 @@ This project demonstrates how SDN enables centralized control and monitoring of 
 
 ---
 
-## 📚 References
+##  References
 
 * POX Documentation
 * Mininet Documentation
